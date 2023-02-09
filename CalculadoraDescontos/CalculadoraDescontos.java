@@ -1,7 +1,0 @@
-/**
- * CalculadoraDescontos
- */
-public class CalculadoraDescontos {
-
-    
-}
